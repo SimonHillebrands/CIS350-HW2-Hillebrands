@@ -1,8 +1,8 @@
 # Simon Hillebrands
 
--Coding math realated things such as cellular automata
--Coding python bots that do things for me
--Magic:The Gathering
+- Coding math realated things such as cellular automata
+- Coding python bots that do things for me
+- Magic:The Gathering
 
 ## Technical Background
 The languages I'm most comfortable in are Java and Python, I also feel confident writing sql 
@@ -13,4 +13,6 @@ code animations(a lot of math related stuff)
 I have a minor amount of experience with C and webGL
 
 
+
+Have this terrible meme+
 ![Have this terrible meme](https://i.redd.it/vurdfko5dt561.png)
